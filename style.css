@@ -75,7 +75,7 @@ h2 {
 }
 
 .hero {
-    background-image: url('./img_hero.png');
+    background-image: url('img_hero.png');
     background-size: cover;
     background-position: center;
     height: 400px;
